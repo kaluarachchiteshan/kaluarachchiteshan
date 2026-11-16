@@ -1,5 +1,26 @@
-# 💫 About Me:
-**🔭 I'm currently working on**<br><br>Developing full-stack software applications, backend systems, and automation projects while applying industry-standard software engineering practices.<br><br>**👯 I'm looking to collaborate on**<br><br>Open-source projects, enterprise-level software applications, full-stack development, and innovative engineering solutions.<br><br>**🤝 I'm looking for help with**<br><br>System Design, Software Architecture, Cloud Computing, DevOps Engineering, and scalable application development.<br><br>**🌱 I'm currently learning**<br><br>Advanced Data Structures and Algorithms, Full-Stack Development, Java Spring Boot, Database Management, Docker, and Cloud Technologies.<br><br>**💬 Ask me about**<br><br>C++, Java, JavaScript, React.js, Node.js, Express.js, REST APIs, MySQL, Git, GitHub, and Software Development.<br><br>**⚡ Fun fact**<br><br>I believe great software is built through continuous learning, problem-solving, and turning innovative ideas into practical solutions.
+🔭 **I'm currently working on**
+
+Full-stack applications and software development projects.
+
+👯 **I'm looking to collaborate on**
+
+Open-source and innovative software projects.
+
+🤝 **I'm looking for help with**
+
+System Design, Cloud Computing, and DevOps.
+
+🌱 **I'm currently learning**
+
+Spring Boot, React, Docker, and Cloud Technologies.
+
+💬 **Ask me about**
+
+C++, Java, JavaScript, React, Node.js, and MySQL.
+
+⚡ **Fun fact**
+
+Turning ideas into practical software solutions.
 
 
 ## 🌐 Socials:
