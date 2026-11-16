@@ -1,8 +1,4 @@
-💫 About Me:
-🔭 I'm currently working on<br><br>Developing full-stack software applications, backend systems, and automation projects while applying industry-standard software engineering practices.<br><br>👯 I'm looking to collaborate on<br><br>Open-source projects, enterprise-level software applications, full-stack development, and innovative engineering solutions.<br><br>🤝 I'm looking for help with<br><br>System Design, Software Architecture, Cloud Computing, DevOps Engineering, and scalable application development.<br><br>🌱 I'm currently learning<br><br>Advanced Data Structures and Algorithms, Full-Stack Development, Java Spring Boot, Database Management, Docker, and Cloud Technologies.<br><br>💬 Ask me about<br><br>C++, Java, JavaScript, React.js, Node.js, Express.js, REST APIs, MySQL, Git, GitHub, and Software Development.<br><br>⚡ Fun fact<br><br>I believe great software is built through continuous learning, problem-solving, and turning innovative ideas into practical solutions.
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
-
 ![](https://github-readme-stats.shion.dev/api?username=kaluarachchiteshan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=kaluarachchiteshan&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kaluarachchiteshan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
