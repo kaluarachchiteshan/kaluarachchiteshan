@@ -1,28 +1,3 @@
-🔭 **I'm currently working on**
-
-Full-stack applications and software development projects.
-
-👯 **I'm looking to collaborate on**
-
-Open-source and innovative software projects.
-
-🤝 **I'm looking for help with**
-
-System Design, Cloud Computing, and DevOps.
-
-🌱 **I'm currently learning**
-
-Spring Boot, React, Docker, and Cloud Technologies.
-
-💬 **Ask me about**
-
-C++, Java, JavaScript, React, Node.js, and MySQL.
-
-⚡ **Fun fact**
-
-Turning ideas into practical software solutions.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teshan-kaluarachchi-6ab72526a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaluarachchiteshan@gmail.com) 
 
