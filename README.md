@@ -1,4 +1,4 @@
-👋 Hi, I'm Teshan Kaluarachchi 🎓
+<h3>👋 Hi, I'm Teshan Kaluarachchi 🎓</h3>
 
 ![](https://streak-stats.demolab.com/?user=kaluarachchiteshan&theme=github_dark&hide_border=false)<br/>
 
