@@ -2,5 +2,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teshan-kaluarachchi-6ab72526a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaluarachchiteshan@gmail.com) 
 
-![](https://github-readme-stats.shion.dev/api?username=kaluarachchiteshan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=kaluarachchiteshan&theme=github_dark&hide_border=false)<br/>
